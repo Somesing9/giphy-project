@@ -1,0 +1,20 @@
+body {
+	background-color: lightblue;
+}
+
+.page-header {
+	margin-top: 0px;
+}
+
+.gifDiv {
+	min-width: 100%;
+}
+
+.thumbnail {
+	display: inline-block;
+	margin: 0 .5%;
+}
+
+.cityBtn {
+	margin: 0 5px;
+}
